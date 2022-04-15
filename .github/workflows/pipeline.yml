@@ -16,4 +16,4 @@ jobs:
       - name: npm install
         run: npm install
       - name: lint code
-        run: spm run eslint
+        run: npm run eslint
